@@ -1,0 +1,4 @@
+.idea
+*.pyc
+clusterdata-2011-2/*
+.DS_Store
